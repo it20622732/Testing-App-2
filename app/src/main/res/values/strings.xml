@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Department</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_buidling">Building_Name</string>
+</resources>
